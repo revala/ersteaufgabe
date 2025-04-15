@@ -29,21 +29,22 @@ Follow these steps to set up the project locally:
     ```
 
 ## Usage
+
 To start the development server:
-    ```bash
+```bash
     npm run dev
-    ```
+```
 This will start the Vite development server. Open your browser and navigate to http://localhost:5173 (or the URL provided in the terminal).
 
 To build the project for production:
-    ```bash
+```bash
     npm run build
-    ```
+```
 
 To preview the production build locally:
-    ```bash
+```bash
     npm run preview
-    ```
+```
 
 ## Expanding the ESLint configuration
 
